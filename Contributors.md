@@ -2435,5 +2435,5 @@
 - [Manish Singh Parihar](https://github.com/Msparihar)
 - [Wissam Fawaz](https://github.com/wissamfawaz)
 - [Akash Sancheti](https://github.com/Akash1105)
-- [Chelsea Brown](https://github.com/chelsea-angelena)
+
 <!-- prettier-ignore-end -->
